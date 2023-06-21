@@ -2,15 +2,15 @@ using System;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CommandsService.Controllers
-{
+{ 
     [Route("api/c/[Controller]")]
     [ApiController]
     public class PlatformsController : ControllerBase
     {
-        
+
         public PlatformsController()
         {
-            
+
         }
 
         [HttpPost]
@@ -22,4 +22,4 @@ namespace CommandsService.Controllers
         }
 
     }
-}
+}                                                                                                                                 

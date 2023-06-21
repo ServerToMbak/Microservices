@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Z2VVkWRwiKr1i3NNe9pKD39mfZX4FH2Atp5IUZ9mwIKmyMogUGBrHu2XfeUx2eeLeXe5R8xYa9tHOexStz8uA==",
+  "dgSpecHash": "o4k+XoardgJtlFDu6B2z9e0j40PuQBDp8KHGd62CzhBMUMuFCxIR0tEAlV+Fz7H2rK+OybWOfPd65XHGlowdXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msı-nb\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\msı-nb\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

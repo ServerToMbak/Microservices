@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CommandsService
-build_property.ProjectDir = c:\Users\msı-nb\.Net\PlatformService\CommandsService\
+build_property.ProjectDir = c:\Users\msı-nb\.Net\Microservices\microservices\CommandsService\

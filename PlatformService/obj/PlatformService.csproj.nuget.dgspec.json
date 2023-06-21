@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msı-nb\\.Net\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msı-nb\\.Net\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msı-nb\\.Net\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\msı-nb\\.Net\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\msı-nb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msı-nb\\.Net\\PlatformService\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msı-nb\\AppData\\Roaming\\NuGet\\NuGet.Config",

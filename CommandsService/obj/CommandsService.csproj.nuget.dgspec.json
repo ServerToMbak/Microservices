@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\CommandsService.csproj",
+        "projectPath": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\msı-nb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msı-nb\\.Net\\PlatformService\\CommandsService\\obj\\",
+        "outputPath": "C:\\Users\\msı-nb\\.Net\\Microservices\\Microservices\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msı-nb\\AppData\\Roaming\\NuGet\\NuGet.Config",
